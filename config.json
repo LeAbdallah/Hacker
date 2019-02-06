@@ -3,7 +3,7 @@
 
 {
     "secret": {
-        "token": "process.env.BOT_TOKEN",
+        "token": "NTQyNjE5Njk2ODE4NTUyODMy.Dzw6MQ.9kSivx_2435nG_Aru1BlTPB3WjE",
         "api_key": "AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8"
     },
     "bot": {
