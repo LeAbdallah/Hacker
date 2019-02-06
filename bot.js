@@ -7,7 +7,7 @@ const request = require('request');
 const config = require('./config.json');
 
 
-let ownerID = "411137717884289024";
+let ownerID = "532937392454369300";
 
 let voiceChannel;
 let conn;
